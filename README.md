@@ -5,14 +5,13 @@
 ## [Padao](https://pandao.github.io/editor.md/en.html) markdown editor used for this file
 
 
-![](https://github.com/gokay/python_sqlite/blob/abffe56250b9d2f64d14a07296e9c735977f39f0/python.png)
+![Python](https://github.com/gokay/python_sqlite/images/python.png)
 
-![](https://github.com/gokay/python_sqlite/blob/abffe56250b9d2f64d14a07296e9c735977f39f0/sqlite.png)
+![SqLite](https://github.com/gokay/python_sqlite/images/sqlite.png)
 
-![](https://github.com/gokay/python_sqlite/images/python.png)
+![Python](https://github.com/gokay/images/python.png)
 
-![](https://github.com/gokay/python_sqlite/images/sqlite.png)
-
+![SqLite](https://github.com/gokay/images/sqlite.png)
 
 #### Python code
 
