@@ -7,8 +7,6 @@
 
 ![](https://github.com/gokay/python_sqlite/blob/master/python.png)(https://github.com/gokay/python_sqlite/blob/master/sqlite.png)
 
-![](https://github.com/gokay/python_sqlite/blob/master/sqlite.png)
-
 
 #### Python code
 
