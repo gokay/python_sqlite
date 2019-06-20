@@ -7,7 +7,7 @@
 [Padao](https://pandao.github.io/editor.md/en.html)
 
 #### Python
-```Python
+```python
 import sqlite3
 
 try:
