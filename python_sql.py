@@ -1,5 +1,4 @@
 # Source : https://medium.com/analytics-vidhya/programming-with-databases-in-python-using-sqlite-4cecbef51ab9
-# https://docs.python.org/3/library/sqlite3.html
 
 import sqlite3
 
