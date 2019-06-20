@@ -5,6 +5,9 @@
 ## [Padao](https://pandao.github.io/editor.md/en.html) markdown editor used for this file
 
 
+![](https://github.com/gokay/python_sqlite/python.png)
+
+![](https://github.com/gokay/python_sqlite/sqlite.png)
 #### Python code
 
 ```python
