@@ -7,14 +7,11 @@ try:
     conn = sqlite3.connect('db.sqlite')
     cursor = conn.cursor()
     print("Opened database successfully")
-    conn.close()
-    print("Closed database successfully")
 except sqlite3.Error as err:
     print('Error : ' + err.args[0])
 finally:
+    conn.close()
     print("Closed database successfully")
-
-
 
 # Create table
 conn = sqlite3.connect('db.sqlite')
@@ -27,7 +24,6 @@ cursor.execute('''  CREATE TABLE SCHOOL
                     ADDRESS        CHAR(50),
                     MARKS          INT);''')
 cursor.close()
-
 
 # Inserting records
 conn = sqlite3.connect('db.sqlite')
