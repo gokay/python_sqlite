@@ -1,12 +1,12 @@
-# Python and SqLite examples
+# Python 3.7.x and SqLite 3 examples
 
-## For SqLite3 documentation:
-[SqLite3 documentation](https://docs.python.org/3/library/sqlite3.html)
+## For [SqLite3](https://docs.python.org/3/library/sqlite3.html) documentation
 
-## Padao markdown editor used for this file
-[Padao](https://pandao.github.io/editor.md/en.html)
+## [Padao](https://pandao.github.io/editor.md/en.html) markdown editor used for this file
 
-#### Python
+
+#### Python code
+
 ```python
 import sqlite3
 
